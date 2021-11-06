@@ -15,8 +15,8 @@
 The main functions of the application are accessing the gallery to pick a picture, taking a picture with camera and accessing it, slider screen for app introduction and using the lite model to perform classification. For each of these tasks, project was built by referring to some tutorials and respective repos for model usage [1], slider screen [2], camera usage [3] and gallery usage [4]. The application demo and screens are given below:
 
 <p float="left">
-  <img src="app/src/main/res/output/demo.gif" height="240">
-  <img src="app/src/main/res/output/screens.png" height="240">
+  <img src="app/src/main/res/output/demo.gif" height="260">
+  <img src="app/src/main/res/output/screens.png" height="260">
 </p>
 
 #### References
