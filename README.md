@@ -12,9 +12,12 @@
 
 #### Results
 
-The main functions of the application are accessing the gallery to pick a picture, taking a picture with camera and accessing it, slider screen for app introduction and using the lite model to perform classification. For each of these tasks, project was built by referring to some tutorials and respective repos for model usage [1], slider screen [2], camera usage [3] and gallery usage [4]. The application demo is given below:
+The main functions of the application are accessing the gallery to pick a picture, taking a picture with camera and accessing it, slider screen for app introduction and using the lite model to perform classification. For each of these tasks, project was built by referring to some tutorials and respective repos for model usage [1], slider screen [2], camera usage [3] and gallery usage [4]. The application demo and screens are given below:
 
-<img src="app/src/main/res/output/demo.gif" width="100">
+<p float="left">
+  <img src="app/src/main/res/output/demo.gif" height="300">
+  <img src="app/src/main/res/output/screens.png" height="300">
+</p>
 
 #### References
 [1]	Tang J, [HelloWorldApp](https://github.com/pytorch/android-demo-app/tree/master/HelloWorldApp "app"), (2021)
