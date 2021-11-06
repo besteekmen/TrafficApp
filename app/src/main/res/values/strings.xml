@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TrafficMode</string>
+    <string name="classify">Check Traffic</string>
+    <string name="click_below_to_select_an_image">Click below to select an image</string>
+    <string name="image_to_classify">Image to classify</string>
+    <string name="main_gallery_button">Gallery</string>
+    <string name="main_camera_button">Camera</string>
+    <string name="click_below_to_take_a_picture">Click below to take a picture</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="slide_1_title">Pick from the Gallery</string>
+    <string name="slide_1_desc">Pick an image from the Gallery to check the traffic status</string>
+
+    <string name="slide_2_title">Take with the Camera</string>
+    <string name="slide_2_desc">Take a picture with camera to check the live traffic status</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
